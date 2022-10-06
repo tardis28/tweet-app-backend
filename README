@@ -1,4 +1,4 @@
-Steps to deploye in backend code in cloude 
+Steps to deploye in backend code in aws cloud
 
 1- run mvn clean build to create jar file
 
