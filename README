@@ -1,4 +1,4 @@
-Steps to deploye backend code in aws cloud
+Steps to deploy backend code in aws cloud
 
 1- run mvn clean build to create jar file
 
